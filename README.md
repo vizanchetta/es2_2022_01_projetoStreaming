@@ -1,4 +1,3 @@
-# es2_2022_01_projetoStreaming
 # es2_2022_01_TagarelaBatePapo
 
 ### TAGARELA BATE-PAPO
